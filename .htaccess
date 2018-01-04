@@ -1,0 +1,6 @@
+ErrorDocument 404 "<H1>404 page not found, go to <a href='http://localhost/cb/'>home</a>. </H1>"
+
+
+Options -Indexes 
+
+ErrorDocument 403 "<h1>Access forbidden go to <a href='http://localhost/cb/'>home</a>.</h1>"
